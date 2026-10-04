@@ -4,14 +4,7 @@ Web Tabanlı Programlama dersi dönem projesi için hazırladığımız Hayvanat
 
 ##  Proje Linkleri
 * **Canlı Site:** [http://95.130.171.20/~st24360859028](http://95.130.171.20/~st24360859028)
-* **Tanıtım Videosu:** [Buraya videonun linkini yapıştır]
-
-##  Ekran Görüntüleri
-
-
-
-1. Ekran Görüntüsü: 
-2. Ekran Görüntüsü: 
+* **Tanıtım Videosu:** https://youtu.be/GbaSw7hOhxk
 
 ##  Projede Neler Var? (İstenen Kriterler)
 Proje dökümanında belirtilen kurallara uygun olarak sistemi şu şekilde kurguladım:
